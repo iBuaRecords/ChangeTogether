@@ -30,7 +30,6 @@
         <activity android:name="app.radiant.c.lly.Activities.FeedbackActivity" />
         <activity android:name="app.radiant.c.lly.Activities.SettingsActivity" />
         <activity android:name="app.radiant.c.lly.Activities.ShowBidFeedbackActivity" />
-        <activity android:name="app.radiant.c.lly.Activities.SignInActivity" />
         <activity android:name="app.radiant.c.lly.Activities.ChatActivity" />
 
         <meta-data
